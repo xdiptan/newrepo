@@ -1,0 +1,78 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@xdiptan 
+xdiptan
+/
+newrepo
+1
+00
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+ 2 branches
+ 0 tags
+Latest commit
+Diptendu Tan
+Diptendu Tan Modified
+d6d5c47
+28 minutes ago
+Git stats
+ 9 commits
+Files
+Type
+Name
+Latest commit message
+Commit time
+TestSuit
+Modified
+28 minutes ago
+.gitignore
+Created .gitignore file
+1 hour ago
+LICENSE
+Added license
+1 hour ago
+README.md
+Create README.md
+1 hour ago
+README.md
+This is sample readme file
+
+About
+A repo to connect to work remotely
+
+Topics
+Resources
+ Readme
+License
+ MIT License
+Releases
+No releases published
+Create a new release
+Packages
+No packages published
+Publish your first package
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
